@@ -1,0 +1,27 @@
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-27T17:29:05.185Z"}
+{"level":"info","message":"Connected to mongoDB","timestamp":"2020-06-27T17:29:05.232Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-27T17:29:41.549Z"}
+{"level":"info","message":"Connected to mongoDB","timestamp":"2020-06-27T17:29:41.586Z"}
+{"message":"Cannot set headers after they are sent to the client","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (_http_outgoing.js:470:11)\n    at ServerResponse.header (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/response.js:771:10)\n    at ServerResponse.send (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/response.js:170:12)\n    at auth (/home/computer/Documents/nodeFiles/vidly/middleware/auth.js:14:19)\n    at Layer.handle [as handle_request] (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at /home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/index.js:335:12)\n    at next (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/index.js:174:3)\n    at router (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/index.js:317:13)\n    at /home/computer/Documents/nodeFiles/vidly/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2020-06-27T17:33:31.163Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:29:36.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:29:36.657Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:39:13.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:39:13.579Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:43:44.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:43:44.567Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:44:06.620Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:44:06.694Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:44:31.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:44:31.088Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:46:02.541Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:46:02.597Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:47:22.152Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:47:22.209Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:47:32.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:47:32.810Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:48:03.813Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:48:03.853Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:50:23.150Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:50:23.194Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-06-28T09:52:40.267Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test","timestamp":"2020-06-28T09:52:40.320Z"}
